@@ -1,0 +1,1 @@
+This weather app, built with Node.js, uses Express and Handlebars (hbs) for its web framework and templating. It utilizes the Weatherstack API to fetch current weather data. Nodemon is used for seamless development. Check the repo for detailed setup instructions and code.
